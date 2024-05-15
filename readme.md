@@ -16,7 +16,7 @@ To run the Behat tests, use the following command:
 
 Run Behat tests: 
 - vendor/behat/behat/bin/behat
-- 
+  
 CLI Commands
 The application provides several CLI commands to manage fleets and vehicles.
 
