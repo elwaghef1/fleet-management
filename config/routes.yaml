@@ -1,0 +1,5 @@
+controllers:
+    resource:
+        path: ../src/Infra/Controller/
+        namespace: Fulll\Infra\Controller
+    type: attribute

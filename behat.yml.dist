@@ -1,0 +1,10 @@
+default:
+    suites:
+        default:
+            FriendsOfBehat\SymfonyExtension:
+                bootstrap: ~
+                kernel:
+                    class: ~
+                    path: ~
+                    environment: ~
+                    debug: ~
