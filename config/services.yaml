@@ -17,5 +17,4 @@ services:
             - '../src/DependencyInjection/'
             - '../src/Entity/'
             - '../src/Kernel.php'
-    Fulll\Domain\Repository\FleetRepositoryInterface:
-        class: Fulll\Infra\Repository\FleetRepository
+    
