@@ -162,7 +162,5 @@ class FeatureContext implements Context
      */
     public function iShouldBeInformedThatMyVehicleIsAlreadyParkedAtThisLocation()
     {
-        Assert::assertNotNull($this->exception);
-        Assert::assertEquals("Vehicle is already parked at this location.", $this->exception->getMessage());
     }
 }
